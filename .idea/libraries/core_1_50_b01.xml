@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="core-1.50-b01">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/bc-java-df23021ffbfab02c9771f744f49610645fd8d618/core/build/libs/core-1.50-b01.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/bc-java-df23021ffbfab02c9771f744f49610645fd8d618/core/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
